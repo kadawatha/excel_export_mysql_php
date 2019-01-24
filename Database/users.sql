@@ -1,0 +1,11 @@
+INSERT INTO `users`(`id`, `username`, `email`, `password`) VALUES (14, 'Admoo', 'info@admoo.lk', 'ba1a920fbd349c9bd280689bb36c58c0');
+INSERT INTO `users`(`id`, `username`, `email`, `password`) VALUES (17, 'Chandana ', 'chandanah123@gmail.com', 'b99842d6ee2badb908171087eb392c67');
+INSERT INTO `users`(`id`, `username`, `email`, `password`) VALUES (18, 'Pubudu8820', 'pubudu8820@gmail.com', '3223a0c12bc20ef66eee95c9e737a76b');
+INSERT INTO `users`(`id`, `username`, `email`, `password`) VALUES (19, 'Dushan1981', 'dushan.cellmart@gmail.com', '6823e6f07d21829c9f8328bfc0a21628');
+INSERT INTO `users`(`id`, `username`, `email`, `password`) VALUES (20, 'Oswald1982', 'oswald_don@yahoo.com', '3d8d024843a0d59e28774ec99fd3e6a8');
+INSERT INTO `users`(`id`, `username`, `email`, `password`) VALUES (21, 'Asanka1981', 'asanakaherathcellma@gmail.com', 'e2913dbcdd5b9353801db58040074932');
+INSERT INTO `users`(`id`, `username`, `email`, `password`) VALUES (22, 'Harsha1991', 'asankaharsha91@gmail.com', '2d74599e7a1750c175e0b41e0f613ca0');
+INSERT INTO `users`(`id`, `username`, `email`, `password`) VALUES (23, 'Lahiru1997', 'lahirutharuka92@gmail.com', '17cdbaad629d740f3f975685688a7cd6');
+INSERT INTO `users`(`id`, `username`, `email`, `password`) VALUES (24, 'Isuru1995', 'malithrajapaksha077@gmail.com', '0f86552540e25d4cc0a3315c92ee8a87');
+INSERT INTO `users`(`id`, `username`, `email`, `password`) VALUES (25, 'dhanushka', 'info@admoo.lk', 'e10adc3949ba59abbe56e057f20f883e');
+INSERT INTO `users`(`id`, `username`, `email`, `password`) VALUES (26, 'Chanudha1992', 'chnudhalakruwan@gmail.com', 'f7c3b301c4c88c203279891276a46171');
